@@ -566,7 +566,7 @@ body {
 }     
 
 a { 
-    color: #00d1f9; 
+    color: #2124B1; 
     text-decoration: none;
 } 
 
@@ -578,7 +578,7 @@ a {
     position: fixed; 
     bottom: 20px; 
     left: 20px; 
-    background-color: rgba(37, 211, 102, 0.8); 
+    background-color: rgba(1, 241, 89, 0.8); 
     color: white; 
     font-size: 18px; 
     padding: 10px 18px; 
@@ -596,7 +596,7 @@ a {
 } 
 
 a:hover { 
-    color: #00a7c7;
+    color: #2124B1;
 } 
 
 .whatsapp-float.show { 
